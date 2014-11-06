@@ -1,0 +1,202 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     32 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\ProjectSettings\0.01.015\Paradigm Perspective Indev 0.01.015_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\ProjectSettings\0.01.015\Paradigm Perspective Indev 0.01.015_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\ProjectSettings\0.01.015\Paradigm Perspective Indev 0.01.015_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\ProjectSettings\0.01.015\Paradigm Perspective Indev 0.01.015_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\ProjectSettings\0.01.015\Paradigm Perspective Indev 0.01.015_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\ProjectSettings\0.01.015\Paradigm Perspective Indev 0.01.015_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\ProjectSettings\0.01.015\Paradigm Perspective Indev 0.01.015_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\ProjectSettings\0.01.015\Paradigm Perspective Indev 0.01.015_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.081 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+
+-0.4124994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter2D(Collision2D) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:72)
+ 
+(Filename: C Line: 0)
+

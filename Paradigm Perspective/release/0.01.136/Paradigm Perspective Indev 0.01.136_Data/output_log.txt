@@ -1,0 +1,84 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Tanner\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Release\0.01.136\Paradigm Perspective Indev 0.01.136_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tanner\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Release\0.01.136\Paradigm Perspective Indev 0.01.136_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tanner\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Release\0.01.136\Paradigm Perspective Indev 0.01.136_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Tanner\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Release\0.01.136\Paradigm Perspective Indev 0.01.136_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Tanner\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Release\0.01.136\Paradigm Perspective Indev 0.01.136_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Tanner\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Release\0.01.136\Paradigm Perspective Indev 0.01.136_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Tanner\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Release\0.01.136\Paradigm Perspective Indev 0.01.136_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Tanner\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Release\0.01.136\Paradigm Perspective Indev 0.01.136_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 5760x1154 at 0,-18
+-0.9955702
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter(Collision) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:71)
+ 
+(Filename: C Line: 0)
+
+switched
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PST_Handler:OnSwitch(Boolean) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\PST_Handler.cs:46)
+FigmentGlobals:viewSwitched() (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\FigmentGlobals.cs:18)
+PerspectiveSwitcher:resetTimeScale() (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Camera\Matrix\PerspectiveSwitcher.cs:45)
+ 
+(Filename: C Line: 0)
+
+switched
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PST_Handler:OnSwitch(Boolean) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\PST_Handler.cs:46)
+FigmentGlobals:viewSwitched() (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\FigmentGlobals.cs:18)
+PerspectiveSwitcher:resetTimeScale() (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Camera\Matrix\PerspectiveSwitcher.cs:45)
+ 
+(Filename: C Line: 0)
+
+-1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter(Collision) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:71)
+ 
+(Filename: C Line: 0)
+
+switched
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PST_Handler:OnSwitch(Boolean) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\PST_Handler.cs:46)
+FigmentGlobals:viewSwitched() (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\FigmentGlobals.cs:18)
+PerspectiveSwitcher:resetTimeScale() (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Camera\Matrix\PerspectiveSwitcher.cs:45)
+ 
+(Filename: C Line: 0)
+
+switched
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PST_Handler:OnSwitch(Boolean) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\PST_Handler.cs:46)
+FigmentGlobals:viewSwitched() (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\FigmentGlobals.cs:18)
+PerspectiveSwitcher:resetTimeScale() (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Camera\Matrix\PerspectiveSwitcher.cs:45)
+ 
+(Filename: C Line: 0)
+
+-1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter(Collision) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:71)
+ 
+(Filename: C Line: 0)
+
+-1.016
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Controller_Side:OnCollisionEnter(Collision) (at C:\Users\dyton_000\Dropbox\4 Corners Digital\Games\Paradigm Perspective\Assets\Scripts\Figment\Controller_Side.cs:71)
+ 
+(Filename: C Line: 0)
+

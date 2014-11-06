@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Pyramid\PhysicObject.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CharacterObject\MovementController.cs" Line="10" Column="5" />
+      <File FileName="Assets\Scripts\Pyramid\Gravity.cs" Line="26" Column="6" />
+      <File FileName="Assets\Scripts\Pyramid\PhysicObject.cs" Line="18" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
