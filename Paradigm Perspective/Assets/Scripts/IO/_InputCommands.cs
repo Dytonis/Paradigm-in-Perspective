@@ -21,5 +21,8 @@ namespace Scripts.IO
 		public static string LEFT = "LEFT";
 		public static string RIGHT = "RIGHT";
 		public static string SWITCH = "SWITCH";
+
+		public static string H = "H";
+		public static string V = "V";
 	}
 }
