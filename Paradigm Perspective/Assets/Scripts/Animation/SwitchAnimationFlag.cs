@@ -8,12 +8,10 @@ public class SwitchAnimationFlag : MonoBehaviour
 	// Use this for initialization
 	public void Animation_Switch_STT_Start()
 	{
-		Time.timeScale = 0.1f;
 		GameState.currentCameraState = CameraSwitchState.Switching;
 	}
 	public void Animation_Switch_TTS_Start()
 	{
-		Time.timeScale = 0.1f;
 		GameState.currentCameraState = CameraSwitchState.Switching;
 	}
 	public void Animation_Switch_STT_End()

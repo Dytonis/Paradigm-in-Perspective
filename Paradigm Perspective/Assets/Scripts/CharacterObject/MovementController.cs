@@ -38,7 +38,7 @@ public class MovementController : MonoBehaviour
 			{
 				if(grounded)
 				{
-					rig.AddForce(0f, 2000f, 0f);
+					rig.velocity = new Vector3(rig.velocity.x, 20f, rig.velocity.z);
 					rig.drag = 0;
 				}
 			}
@@ -55,7 +55,8 @@ public class MovementController : MonoBehaviour
 		}
 		else if (GameState.currentCameraState == CameraSwitchState.TopDown)
 		{
-			rig.drag = Game.playerBrakingRate;
+			if(grounded)
+				rig.drag = Game.playerBrakingRate;
 
 			if(io.mcRight)
 			{

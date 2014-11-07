@@ -33,18 +33,20 @@ namespace Scripts.CharacterObject
 			GameState.currentCameraState = CameraSwitchState.SideScroll;
 		}
 
-		public void FixedUpdate()
+		public void Update()
 		{
 			if(io.mcSwitch)
 			{
+				Time.timeScale = 0.1f;
 				if(GameState.currentCameraState == CameraSwitchState.SideScroll)
 				{
-					seeker.animation["Switch_STT"].speed = 2.0f;
+					seeker.animation["Switch_STT"].speed = 3.0f;
 					anim.Play("Switch_STT");
 				}
 				else if (GameState.currentCameraState == CameraSwitchState.TopDown)
 				{
-					seeker.animation["Switch_TTS"].speed = 2.0f;
+
+					seeker.animation["Switch_TTS"].speed = 3.0f;
 					anim.Play ("Switch_TTS");
 				}
 			}
