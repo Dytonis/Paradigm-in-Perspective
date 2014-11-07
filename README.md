@@ -1,2 +1,2 @@
-Paradigm-in-Perspective
+Current beta project data
 =======================
